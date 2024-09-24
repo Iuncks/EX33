@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class EX260{
+public class EX26{
 public static void main(String[] args) {
 int qtde = 20;
 int vetor[] = new int[qtde];
